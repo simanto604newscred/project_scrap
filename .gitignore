@@ -1,0 +1,6 @@
+.idea
+*.py[co]
+# Packages
+*.egg
+*.egg-info
+develop-eggs
